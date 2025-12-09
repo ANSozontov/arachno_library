@@ -1,2 +1,3 @@
-# orange.pi.5
-Telegram bot for managing linux server
+# Arachnolibrary: digital literature storage
+
+Sore & manage your literature openly
